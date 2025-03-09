@@ -1,0 +1,75 @@
+body {
+    background-color: honeydew;
+}
+
+#Myphoto {
+    border-radius: 50%;
+    background-color: brown;
+}
+
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ 
+.head {
+    float:left;
+}
+
+h2 {
+    background-color: blueviolet;
+    display: inline-block;
+    color:white;
+    text-transform:uppercase;
+}
+
+
+.summary, .education, .experience {
+    background-color: antiquewhite;
+    display: inline-block;
+}
+
+.para-edu , .para-exp{
+    background-color:ivory;
+    display: inline-block;
+}
+
+.para-exp {
+    margin:0;
+    padding: 0;
+    border: 0;
+}
+
+.ul-edu {
+    background-color: rgba(100, 100, 100, 0.2);
+    /* display: inline-block; */
+    width: 450px;
+}
+
+.ul-work {
+    background-color: rgba(150, 100, 100, 0.2);
+    /* display: inline-block; */
+    width: 1280px;
+}
+
+.ul-skills {
+    background-color: rgba(150, 100, 100, 0.2);
+    /* display: inline-block; */
+    width: 1280px;
+}
+
+.ul-lang{
+    background-color: rgba(150, 100, 100, 0.2);
+    /* display: inline-block; */
+    width: 200px;
+}
+
+span {
+    background-color:ivory;
+    display: inline-block;
+}
+
+/* .para-edu-list {
+    background-color: aqua;
+    display: inline-block;
+    
+} */
